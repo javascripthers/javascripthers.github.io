@@ -1,0 +1,11 @@
+# Site settings
+title: Javascripthers
+email: javascripther@gmail.com
+description: Bringing together women and non-binary people who code in Javascript.
+baseurl:
+url:
+twitter_username: javascripthers
+github_username:  javascripthers
+
+# Build settings
+markdown: kramdown
