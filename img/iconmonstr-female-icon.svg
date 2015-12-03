@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- License Agreement at http://iconmonstr.com/license/ -->
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path id="female-icon" d="M406,196c0-82.843-67.157-150-150-150s-150,67.157-150,150c0,73.622,53.046,134.845,123,147.562v30.771
+	h-58v50h58V466h1h52h1v-41.667h58v-50h-58v-30.771C352.954,330.845,406,269.622,406,196z M156,196c0-55.14,44.859-100,100-100
+	s100,44.86,100,100s-44.859,100-100,100S156,251.14,156,196z"/>
+</svg>
