@@ -6,11 +6,11 @@ permalink: /CoC/
 
 # Code of Conduct
 
-Javascripthers is dedicated to providing a harassment-free community for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion (or lack thereof). We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any online platform or in any event venue, including talks. Participants violating these rules may be sanctioned or expelled from events without a refund, or banned from online platforms at the discretion of the community organisers.
+Javascripthers is dedicated to providing a harassment-free community for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof), relationship choices, status as a parent, physical and mental ability, education level, political affiliation, social and economic class or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any online platform or in any event venue, including talks. Participants violating these rules may be sanctioned or expelled from events without a refund, or banned from online platforms at the discretion of the community organisers.
 
 ##Harassment includes, but is not limited to:
 
-- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age and religion (or lack thereof).
+- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof), relationship choices, status as a parent, physical and mental ability, education level, political affiliation, social and economic class or technology choices.
 - Sexual images in public and online spaces
 - Deliberate intimidation, stalking, or following
 - Harassing photography or recording
@@ -27,11 +27,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ##If You Witness or Are Subject to Unacceptable Behavior
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress. If not in the context of an in-person event, please contact us at <mailto:javascripther@gmail.com>.
 
 ##Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct in the context of an in-person event, you should notify one of the event organisers with a concise description of your grievance. Else, you can contact us at <mailto:javascripther@gmail.com>.
 
 ##Scope
 
@@ -40,4 +40,3 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 ##License and attribution
 
 This code of conduct is a mixture of Berlin Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license. It is based on the pdx.rb code of conduct, which is distributed under the same license, and  the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
-
